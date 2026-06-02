@@ -1,0 +1,31 @@
+# ── Datos crudos (Excel originales, no se suben al repo) ──────────────────────
+data/raw_data/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Entornos virtuales ────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Sistema operativo ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Scripts de exploración y pruebas ─────────────────────────────────────────
+scripts/test.py
+scripts/visualizar_csv.py

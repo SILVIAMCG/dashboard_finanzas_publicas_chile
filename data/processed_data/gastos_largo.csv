@@ -1,0 +1,505 @@
+categoria,periodo,valor,año,trimestre,fuente
+GASTOS,2017-Q1,8393162.233884,2017,1,Gobierno Central
+GASTOS,2017-Q2,8449243.77817,2017,2,Gobierno Central
+GASTOS,2017-Q3,9350796.115438,2017,3,Gobierno Central
+GASTOS,2017-Q4,9667666.980511,2017,4,Gobierno Central
+GASTOS,2018-Q1,9119111.571868,2018,1,Gobierno Central
+GASTOS,2018-Q2,9135291.890586998,2018,2,Gobierno Central
+GASTOS,2018-Q3,9409037.887009002,2018,3,Gobierno Central
+GASTOS,2018-Q4,10516651.990579,2018,4,Gobierno Central
+GASTOS,2019-Q1,9690992.328267997,2019,1,Gobierno Central
+GASTOS,2019-Q2,9615579.390241997,2019,2,Gobierno Central
+GASTOS,2019-Q3,10253745.759994999,2019,3,Gobierno Central
+GASTOS,2019-Q4,11132251.136635004,2019,4,Gobierno Central
+GASTOS,2020-Q1,10669929.945841998,2020,1,Gobierno Central
+GASTOS,2020-Q2,10603847.397105005,2020,2,Gobierno Central
+GASTOS,2020-Q3,14209073.743817005,2020,3,Gobierno Central
+GASTOS,2020-Q4,12497363.12001399,2020,4,Gobierno Central
+GASTOS,2021-Q1,12390682.369187,2021,1,Gobierno Central
+GASTOS,2021-Q2,16034532.721048005,2021,2,Gobierno Central
+GASTOS,2021-Q3,20336780.869114004,2021,3,Gobierno Central
+GASTOS,2021-Q4,19657615.241780996,2021,4,Gobierno Central
+GASTOS,2022-Q1,12859509.063099993,2022,1,Gobierno Central
+GASTOS,2022-Q2,12992767.065323997,2022,2,Gobierno Central
+GASTOS,2022-Q3,15934944.113674004,2022,3,Gobierno Central
+GASTOS,2022-Q4,14598563.828261,2022,4,Gobierno Central
+GASTOS,2023-Q1,15207978.983697994,2023,1,Gobierno Central
+GASTOS,2023-Q2,15112627.817087006,2023,2,Gobierno Central
+GASTOS,2023-Q3,15415362.164785007,2023,3,Gobierno Central
+GASTOS,2023-Q4,15912452.966868004,2023,4,Gobierno Central
+GASTOS,2024-Q1,16597021.214371009,2024,1,Gobierno Central
+GASTOS,2024-Q2,16255196.623589009,2024,2,Gobierno Central
+GASTOS,2024-Q3,16592216.199924998,2024,3,Gobierno Central
+GASTOS,2024-Q4,16945855.797783,2024,4,Gobierno Central
+GASTOS,2025-Q1,17804221.001766004,2025,1,Gobierno Central
+GASTOS,2025-Q2,17491095.45384401,2025,2,Gobierno Central
+GASTOS,2025-Q3,17988535.065459996,2025,3,Gobierno Central
+GASTOS,2025-Q4,18149148.887146994,2025,4,Gobierno Central
+Personal,2017-Q1,2136853.78121,2017,1,Gobierno Central
+Personal,2017-Q2,2040803.67079,2017,2,Gobierno Central
+Personal,2017-Q3,2185149.6694400003,2017,3,Gobierno Central
+Personal,2017-Q4,2214207.4003800005,2017,4,Gobierno Central
+Personal,2018-Q1,2290866.34211,2018,1,Gobierno Central
+Personal,2018-Q2,2261942.0547,2018,2,Gobierno Central
+Personal,2018-Q3,2280228.5863300003,2018,3,Gobierno Central
+Personal,2018-Q4,2411780.7403100003,2018,4,Gobierno Central
+Personal,2019-Q1,2426815.83128,2019,1,Gobierno Central
+Personal,2019-Q2,2408316.9016899997,2019,2,Gobierno Central
+Personal,2019-Q3,2426759.33168,2019,3,Gobierno Central
+Personal,2019-Q4,2541092.5942400005,2019,4,Gobierno Central
+Personal,2020-Q1,2617720.0830200007,2020,1,Gobierno Central
+Personal,2020-Q2,2599368.9727200004,2020,2,Gobierno Central
+Personal,2020-Q3,2659769.5420399997,2020,3,Gobierno Central
+Personal,2020-Q4,2738966.8459300003,2020,4,Gobierno Central
+Personal,2021-Q1,2907965.53006,2021,1,Gobierno Central
+Personal,2021-Q2,2847244.41218,2021,2,Gobierno Central
+Personal,2021-Q3,2858534.36312,2021,3,Gobierno Central
+Personal,2021-Q4,3045787.70653,2021,4,Gobierno Central
+Personal,2022-Q1,3007342.483,2022,1,Gobierno Central
+Personal,2022-Q2,3057114.7115,2022,2,Gobierno Central
+Personal,2022-Q3,3039940.15392,2022,3,Gobierno Central
+Personal,2022-Q4,3220126.30026,2022,4,Gobierno Central
+Personal,2023-Q1,3441482.01264,2023,1,Gobierno Central
+Personal,2023-Q2,3388221.5004099994,2023,2,Gobierno Central
+Personal,2023-Q3,3425493.6391400006,2023,3,Gobierno Central
+Personal,2023-Q4,3545981.4939600006,2023,4,Gobierno Central
+Personal,2024-Q1,3796445.9439199995,2024,1,Gobierno Central
+Personal,2024-Q2,3794362.8473799997,2024,2,Gobierno Central
+Personal,2024-Q3,3802762.80714,2024,3,Gobierno Central
+Personal,2024-Q4,3801772.86153,2024,4,Gobierno Central
+Personal,2025-Q1,4373456.44776,2025,1,Gobierno Central
+Personal,2025-Q2,4206327.53318,2025,2,Gobierno Central
+Personal,2025-Q3,4261929.942359999,2025,3,Gobierno Central
+Personal,2025-Q4,4326553.3036899995,2025,4,Gobierno Central
+Bienes y servicios de consumo y producción,2017-Q1,673371.9082599999,2017,1,Gobierno Central
+Bienes y servicios de consumo y producción,2017-Q2,787624.15938,2017,2,Gobierno Central
+Bienes y servicios de consumo y producción,2017-Q3,870650.32742,2017,3,Gobierno Central
+Bienes y servicios de consumo y producción,2017-Q4,1178096.8505199999,2017,4,Gobierno Central
+Bienes y servicios de consumo y producción,2018-Q1,714303.48139,2018,1,Gobierno Central
+Bienes y servicios de consumo y producción,2018-Q2,866724.15885,2018,2,Gobierno Central
+Bienes y servicios de consumo y producción,2018-Q3,893314.15026,2018,3,Gobierno Central
+Bienes y servicios de consumo y producción,2018-Q4,1202834.43766,2018,4,Gobierno Central
+Bienes y servicios de consumo y producción,2019-Q1,778994.4534,2019,1,Gobierno Central
+Bienes y servicios de consumo y producción,2019-Q2,904119.1972599998,2019,2,Gobierno Central
+Bienes y servicios de consumo y producción,2019-Q3,929116.6847399999,2019,3,Gobierno Central
+Bienes y servicios de consumo y producción,2019-Q4,1253679.85301,2019,4,Gobierno Central
+Bienes y servicios de consumo y producción,2020-Q1,853178.8994500001,2020,1,Gobierno Central
+Bienes y servicios de consumo y producción,2020-Q2,971199.4609599997,2020,2,Gobierno Central
+Bienes y servicios de consumo y producción,2020-Q3,1025045.9072200002,2020,3,Gobierno Central
+Bienes y servicios de consumo y producción,2020-Q4,1520263.2129199996,2020,4,Gobierno Central
+Bienes y servicios de consumo y producción,2021-Q1,985078.9062499999,2021,1,Gobierno Central
+Bienes y servicios de consumo y producción,2021-Q2,1118482.8442099998,2021,2,Gobierno Central
+Bienes y servicios de consumo y producción,2021-Q3,1113923.6606599998,2021,3,Gobierno Central
+Bienes y servicios de consumo y producción,2021-Q4,1567925.6975099999,2021,4,Gobierno Central
+Bienes y servicios de consumo y producción,2022-Q1,1098245.5551699996,2022,1,Gobierno Central
+Bienes y servicios de consumo y producción,2022-Q2,1123139.9521400002,2022,2,Gobierno Central
+Bienes y servicios de consumo y producción,2022-Q3,1352660.5634799995,2022,3,Gobierno Central
+Bienes y servicios de consumo y producción,2022-Q4,1610383.72922,2022,4,Gobierno Central
+Bienes y servicios de consumo y producción,2023-Q1,1231847.9175800004,2023,1,Gobierno Central
+Bienes y servicios de consumo y producción,2023-Q2,1300569.5442900003,2023,2,Gobierno Central
+Bienes y servicios de consumo y producción,2023-Q3,1352459.02302,2023,3,Gobierno Central
+Bienes y servicios de consumo y producción,2023-Q4,1576603.2623799997,2023,4,Gobierno Central
+Bienes y servicios de consumo y producción,2024-Q1,1532610.79961,2024,1,Gobierno Central
+Bienes y servicios de consumo y producción,2024-Q2,1506059.3206399998,2024,2,Gobierno Central
+Bienes y servicios de consumo y producción,2024-Q3,1489167.8660699998,2024,3,Gobierno Central
+Bienes y servicios de consumo y producción,2024-Q4,1503979.8761799997,2024,4,Gobierno Central
+Bienes y servicios de consumo y producción,2025-Q1,1917218.4632599996,2025,1,Gobierno Central
+Bienes y servicios de consumo y producción,2025-Q2,1617641.0784299995,2025,2,Gobierno Central
+Bienes y servicios de consumo y producción,2025-Q3,1639192.3142999995,2025,3,Gobierno Central
+Bienes y servicios de consumo y producción,2025-Q4,1652643.8674100004,2025,4,Gobierno Central
+Intereses,2017-Q1,635834.73178,2017,1,Gobierno Central
+Intereses,2017-Q2,89356.70034,2017,2,Gobierno Central
+Intereses,2017-Q3,661564.8132,2017,3,Gobierno Central
+Intereses,2017-Q4,72062.14382999999,2017,4,Gobierno Central
+Intereses,2018-Q1,715661.3963489999,2018,1,Gobierno Central
+Intereses,2018-Q2,89583.989069,2018,2,Gobierno Central
+Intereses,2018-Q3,724307.6960090001,2018,3,Gobierno Central
+Intereses,2018-Q4,83737.15129400001,2018,4,Gobierno Central
+Intereses,2019-Q1,807760.736387,2019,1,Gobierno Central
+Intereses,2019-Q2,93257.93789000002,2019,2,Gobierno Central
+Intereses,2019-Q3,827380.438795,2019,3,Gobierno Central
+Intereses,2019-Q4,82030.39034000001,2019,4,Gobierno Central
+Intereses,2020-Q1,905480.113065,2020,1,Gobierno Central
+Intereses,2020-Q2,104405.52759599999,2020,2,Gobierno Central
+Intereses,2020-Q3,876569.460458,2020,3,Gobierno Central
+Intereses,2020-Q4,50679.66581800001,2020,4,Gobierno Central
+Intereses,2021-Q1,915843.0756269998,2021,1,Gobierno Central
+Intereses,2021-Q2,93804.255219,2021,2,Gobierno Central
+Intereses,2021-Q3,881881.4558639999,2021,3,Gobierno Central
+Intereses,2021-Q4,166354.9969,2021,4,Gobierno Central
+Intereses,2022-Q1,1022446.3260679999,2022,1,Gobierno Central
+Intereses,2022-Q2,228334.56357900004,2022,2,Gobierno Central
+Intereses,2022-Q3,1126938.4124140001,2022,3,Gobierno Central
+Intereses,2022-Q4,261888.02789,2022,4,Gobierno Central
+Intereses,2023-Q1,1169988.735708,2023,1,Gobierno Central
+Intereses,2023-Q2,299202.8842519999,2023,2,Gobierno Central
+Intereses,2023-Q3,1086730.1592440002,2023,3,Gobierno Central
+Intereses,2023-Q4,416678.628649,2023,4,Gobierno Central
+Intereses,2024-Q1,1299500.6854489995,2024,1,Gobierno Central
+Intereses,2024-Q2,554963.2452770001,2024,2,Gobierno Central
+Intereses,2024-Q3,1259048.188833,2024,3,Gobierno Central
+Intereses,2024-Q4,656277.6947339999,2024,4,Gobierno Central
+Intereses,2025-Q1,1313468.037974,2025,1,Gobierno Central
+Intereses,2025-Q2,739384.309648,2025,2,Gobierno Central
+Intereses,2025-Q3,1374095.9832980004,2025,3,Gobierno Central
+Intereses,2025-Q4,778835.3296359999,2025,4,Gobierno Central
+Subsidios y donaciones,2017-Q1,3089249.11051,2017,1,Gobierno Central
+Subsidios y donaciones,2017-Q2,3727578.40783,2017,2,Gobierno Central
+Subsidios y donaciones,2017-Q3,3812744.44465,2017,3,Gobierno Central
+Subsidios y donaciones,2017-Q4,4368728.60409,2017,4,Gobierno Central
+Subsidios y donaciones,2018-Q1,3456562.98254,2018,1,Gobierno Central
+Subsidios y donaciones,2018-Q2,3995159.41228,2018,2,Gobierno Central
+Subsidios y donaciones,2018-Q3,3626678.0208799997,2018,3,Gobierno Central
+Subsidios y donaciones,2018-Q4,4892179.732340001,2018,4,Gobierno Central
+Subsidios y donaciones,2019-Q1,3658239.2954200003,2019,1,Gobierno Central
+Subsidios y donaciones,2019-Q2,4289486.934850002,2019,2,Gobierno Central
+Subsidios y donaciones,2019-Q3,4095203.41552,2019,3,Gobierno Central
+Subsidios y donaciones,2019-Q4,5244217.513549998,2019,4,Gobierno Central
+Subsidios y donaciones,2020-Q1,3962786.03143,2020,1,Gobierno Central
+Subsidios y donaciones,2020-Q2,4832992.329859999,2020,2,Gobierno Central
+Subsidios y donaciones,2020-Q3,7482404.132010001,2020,3,Gobierno Central
+Subsidios y donaciones,2020-Q4,5832612.19729,2020,4,Gobierno Central
+Subsidios y donaciones,2021-Q1,5335301.6073199995,2021,1,Gobierno Central
+Subsidios y donaciones,2021-Q2,9683332.750410002,2021,2,Gobierno Central
+Subsidios y donaciones,2021-Q3,13292927.537060004,2021,3,Gobierno Central
+Subsidios y donaciones,2021-Q4,12153249.33553,2021,4,Gobierno Central
+Subsidios y donaciones,2022-Q1,5216257.87461,2022,1,Gobierno Central
+Subsidios y donaciones,2022-Q2,5953124.346399998,2022,2,Gobierno Central
+Subsidios y donaciones,2022-Q3,7336676.290209999,2022,3,Gobierno Central
+Subsidios y donaciones,2022-Q4,6077963.058240001,2022,4,Gobierno Central
+Subsidios y donaciones,2023-Q1,5736807.45342,2023,1,Gobierno Central
+Subsidios y donaciones,2023-Q2,6515959.02247,2023,2,Gobierno Central
+Subsidios y donaciones,2023-Q3,6059994.26652,2023,3,Gobierno Central
+Subsidios y donaciones,2023-Q4,6713731.159869999,2023,4,Gobierno Central
+Subsidios y donaciones,2024-Q1,6143580.807009999,2024,1,Gobierno Central
+Subsidios y donaciones,2024-Q2,6573690.200619999,2024,2,Gobierno Central
+Subsidios y donaciones,2024-Q3,6214831.56666,2024,3,Gobierno Central
+Subsidios y donaciones,2024-Q4,7124772.324109999,2024,4,Gobierno Central
+Subsidios y donaciones,2025-Q1,6021995.6381399995,2025,1,Gobierno Central
+Subsidios y donaciones,2025-Q2,6794717.428569999,2025,2,Gobierno Central
+Subsidios y donaciones,2025-Q3,6605872.19185,2025,3,Gobierno Central
+Subsidios y donaciones,2025-Q4,7156387.30635,2025,4,Gobierno Central
+Prestaciones previsionales,2017-Q1,1838687.930134,2017,1,Gobierno Central
+Prestaciones previsionales,2017-Q2,1778473.9099600003,2017,2,Gobierno Central
+Prestaciones previsionales,2017-Q3,1803184.3082479998,2017,3,Gobierno Central
+Prestaciones previsionales,2017-Q4,1813447.0119709999,2017,4,Gobierno Central
+Prestaciones previsionales,2018-Q1,1925394.684479,2018,1,Gobierno Central
+Prestaciones previsionales,2018-Q2,1892614.6716879997,2018,2,Gobierno Central
+Prestaciones previsionales,2018-Q3,1861693.41662,2018,3,Gobierno Central
+Prestaciones previsionales,2018-Q4,1890206.025415,2018,4,Gobierno Central
+Prestaciones previsionales,2019-Q1,2000179.769781,2019,1,Gobierno Central
+Prestaciones previsionales,2019-Q2,1903187.280552,2019,2,Gobierno Central
+Prestaciones previsionales,2019-Q3,1953875.85156,2019,3,Gobierno Central
+Prestaciones previsionales,2019-Q4,1968450.325325,2019,4,Gobierno Central
+Prestaciones previsionales,2020-Q1,2304571.736877,2020,1,Gobierno Central
+Prestaciones previsionales,2020-Q2,2072353.7730089994,2020,2,Gobierno Central
+Prestaciones previsionales,2020-Q3,2139389.766389,2020,3,Gobierno Central
+Prestaciones previsionales,2020-Q4,2315507.288606,2020,4,Gobierno Central
+Prestaciones previsionales,2021-Q1,2221209.6639300003,2021,1,Gobierno Central
+Prestaciones previsionales,2021-Q2,2259365.962029,2021,2,Gobierno Central
+Prestaciones previsionales,2021-Q3,2148632.7864099997,2021,3,Gobierno Central
+Prestaciones previsionales,2021-Q4,2669535.9737010007,2021,4,Gobierno Central
+Prestaciones previsionales,2022-Q1,2466283.782252,2022,1,Gobierno Central
+Prestaciones previsionales,2022-Q2,2607956.965705,2022,2,Gobierno Central
+Prestaciones previsionales,2022-Q3,3034494.87437,2022,3,Gobierno Central
+Prestaciones previsionales,2022-Q4,3269048.995331,2022,4,Gobierno Central
+Prestaciones previsionales,2023-Q1,3563078.96335,2023,1,Gobierno Central
+Prestaciones previsionales,2023-Q2,3573830.5286749993,2023,2,Gobierno Central
+Prestaciones previsionales,2023-Q3,3451439.598061,2023,3,Gobierno Central
+Prestaciones previsionales,2023-Q4,3579326.7227189997,2023,4,Gobierno Central
+Prestaciones previsionales,2024-Q1,3747377.207382,2024,1,Gobierno Central
+Prestaciones previsionales,2024-Q2,3779969.281112,2024,2,Gobierno Central
+Prestaciones previsionales,2024-Q3,3704309.7893020003,2024,3,Gobierno Central
+Prestaciones previsionales,2024-Q4,3762964.770528999,2024,4,Gobierno Central
+Prestaciones previsionales,2025-Q1,4117305.4410119993,2025,1,Gobierno Central
+Prestaciones previsionales,2025-Q2,4061981.9140160005,2025,2,Gobierno Central
+Prestaciones previsionales,2025-Q3,4033717.0196619993,2025,3,Gobierno Central
+Prestaciones previsionales,2025-Q4,4099813.478391,2025,4,Gobierno Central
+Otros,2017-Q1,19164.77199,2017,1,Gobierno Central
+Otros,2017-Q2,25406.92987,2017,2,Gobierno Central
+Otros,2017-Q3,17502.55248,2017,3,Gobierno Central
+Otros,2017-Q4,21124.96972,2017,4,Gobierno Central
+Otros,2018-Q1,16322.685000000001,2018,1,Gobierno Central
+Otros,2018-Q2,29267.604,2018,2,Gobierno Central
+Otros,2018-Q3,22816.01691,2018,3,Gobierno Central
+Otros,2018-Q4,35913.90356,2018,4,Gobierno Central
+Otros,2019-Q1,19002.242,2019,1,Gobierno Central
+Otros,2019-Q2,17211.138,2019,2,Gobierno Central
+Otros,2019-Q3,21410.0377,2019,3,Gobierno Central
+Otros,2019-Q4,42780.46017,2019,4,Gobierno Central
+Otros,2020-Q1,26193.082,2020,1,Gobierno Central
+Otros,2020-Q2,23527.33296,2020,2,Gobierno Central
+Otros,2020-Q3,25894.935699999998,2020,3,Gobierno Central
+Otros,2020-Q4,39333.90945000001,2020,4,Gobierno Central
+Otros,2021-Q1,25283.586,2021,1,Gobierno Central
+Otros,2021-Q2,32302.496999999996,2021,2,Gobierno Central
+Otros,2021-Q3,40881.066,2021,3,Gobierno Central
+Otros,2021-Q4,54761.53161,2021,4,Gobierno Central
+Otros,2022-Q1,48933.042,2022,1,Gobierno Central
+Otros,2022-Q2,23096.526,2022,2,Gobierno Central
+Otros,2022-Q3,44233.819279999996,2022,3,Gobierno Central
+Otros,2022-Q4,159153.71732,2022,4,Gobierno Central
+Otros,2023-Q1,64773.901,2023,1,Gobierno Central
+Otros,2023-Q2,34844.336989999996,2023,2,Gobierno Central
+Otros,2023-Q3,39245.4788,2023,3,Gobierno Central
+Otros,2023-Q4,80131.69928999999,2023,4,Gobierno Central
+Otros,2024-Q1,77505.771,2024,1,Gobierno Central
+Otros,2024-Q2,46151.728559999996,2024,2,Gobierno Central
+Otros,2024-Q3,122095.98191999998,2024,3,Gobierno Central
+Otros,2024-Q4,96088.2707,2024,4,Gobierno Central
+Otros,2025-Q1,60776.973620000004,2025,1,Gobierno Central
+Otros,2025-Q2,71043.18999999999,2025,2,Gobierno Central
+Otros,2025-Q3,73727.61399,2025,3,Gobierno Central
+Otros,2025-Q4,134915.60167,2025,4,Gobierno Central
+GASTOS,2017-Q1,9014356.165852,2017,1,Gobierno General
+GASTOS,2017-Q2,9168243.185771002,2017,2,Gobierno General
+GASTOS,2017-Q3,10060862.944697,2017,3,Gobierno General
+GASTOS,2017-Q4,10447269.007355,2017,4,Gobierno General
+GASTOS,2018-Q1,9782744.897392001,2018,1,Gobierno General
+GASTOS,2018-Q2,9956927.062701998,2018,2,Gobierno General
+GASTOS,2018-Q3,10196967.907583002,2018,3,Gobierno General
+GASTOS,2018-Q4,11356808.368983999,2018,4,Gobierno General
+GASTOS,2019-Q1,10435130.735678997,2019,1,Gobierno General
+GASTOS,2019-Q2,10455531.011133999,2019,2,Gobierno General
+GASTOS,2019-Q3,11131114.609473998,2019,3,Gobierno General
+GASTOS,2019-Q4,12114662.199542005,2019,4,Gobierno General
+GASTOS,2020-Q1,11451450.435161997,2020,1,Gobierno General
+GASTOS,2020-Q2,11454392.995909005,2020,2,Gobierno General
+GASTOS,2020-Q3,15110589.122017005,2020,3,Gobierno General
+GASTOS,2020-Q4,13499063.381862989,2020,4,Gobierno General
+GASTOS,2021-Q1,13140583.818077,2021,1,Gobierno General
+GASTOS,2021-Q2,16945342.564982004,2021,2,Gobierno General
+GASTOS,2021-Q3,21278658.471267004,2021,3,Gobierno General
+GASTOS,2021-Q4,20855924.963632934,2021,4,Gobierno General
+GASTOS,2022-Q1,13605797.822469993,2022,1,Gobierno General
+GASTOS,2022-Q2,14128035.079096997,2022,2,Gobierno General
+GASTOS,2022-Q3,17116652.095398005,2022,3,Gobierno General
+GASTOS,2022-Q4,16054001.548570998,2022,4,Gobierno General
+GASTOS,2023-Q1,16260883.162102994,2023,1,Gobierno General
+GASTOS,2023-Q2,16470145.932966005,2023,2,Gobierno General
+GASTOS,2023-Q3,16834165.88001049,2023,3,Gobierno General
+GASTOS,2023-Q4,17611293.764707398,2023,4,Gobierno General
+GASTOS,2024-Q1,17763817.42802601,2024,1,Gobierno General
+GASTOS,2024-Q2,17717485.93040501,2024,2,Gobierno General
+GASTOS,2024-Q3,18236804.839514997,2024,3,Gobierno General
+GASTOS,2024-Q4,18793576.088083,2024,4,Gobierno General
+GASTOS,2025-Q1,19015906.914756004,2025,1,Gobierno General
+GASTOS,2025-Q2,19090191.61470801,2025,2,Gobierno General
+GASTOS,2025-Q3,19543575.107605997,2025,3,Gobierno General
+GASTOS,2025-Q4,20085290.84405808,2025,4,Gobierno General
+Personal,2017-Q1,2941377.0059240004,2017,1,Gobierno General
+Personal,2017-Q2,2925697.892941,2017,2,Gobierno General
+Personal,2017-Q3,3115518.9044850003,2017,3,Gobierno General
+Personal,2017-Q4,3235704.3625970003,2017,4,Gobierno General
+Personal,2018-Q1,3199088.328336,2018,1,Gobierno General
+Personal,2018-Q2,3252188.968738,2018,2,Gobierno General
+Personal,2018-Q3,3264646.3806450004,2018,3,Gobierno General
+Personal,2018-Q4,3503940.025704,2018,4,Gobierno General
+Personal,2019-Q1,3414178.253725,2019,1,Gobierno General
+Personal,2019-Q2,3482030.332568,2019,2,Gobierno General
+Personal,2019-Q3,3511826.307438,2019,3,Gobierno General
+Personal,2019-Q4,3728629.7603850006,2019,4,Gobierno General
+Personal,2020-Q1,3687075.120054001,2020,1,Gobierno General
+Personal,2020-Q2,3701067.997935001,2020,2,Gobierno General
+Personal,2020-Q3,3767741.0901289997,2020,3,Gobierno General
+Personal,2020-Q4,3919319.4509900003,2020,4,Gobierno General
+Personal,2021-Q1,4016512.3352429997,2021,1,Gobierno General
+Personal,2021-Q2,4021886.941354,2021,2,Gobierno General
+Personal,2021-Q3,4042130.684726,2021,3,Gobierno General
+Personal,2021-Q4,4328974.234294248,2021,4,Gobierno General
+Personal,2022-Q1,4219741.482508,2022,1,Gobierno General
+Personal,2022-Q2,4373598.239097,2022,2,Gobierno General
+Personal,2022-Q3,4367617.967126,2022,3,Gobierno General
+Personal,2022-Q4,4658072.073962,2022,4,Gobierno General
+Personal,2023-Q1,4915596.369887,2023,1,Gobierno General
+Personal,2023-Q2,4936241.984851999,2023,2,Gobierno General
+Personal,2023-Q3,4989232.822580612,2023,3,Gobierno General
+Personal,2023-Q4,5229207.231802416,2023,4,Gobierno General
+Personal,2024-Q1,5366211.279515999,2024,1,Gobierno General
+Personal,2024-Q2,5479249.403217999,2024,2,Gobierno General
+Personal,2024-Q3,5496288.254976001,2024,3,Gobierno General
+Personal,2024-Q4,5599017.966494,2024,4,Gobierno General
+Personal,2025-Q1,5980097.779627,2025,1,Gobierno General
+Personal,2025-Q2,5923203.429843,2025,2,Gobierno General
+Personal,2025-Q3,5965080.687195999,2025,3,Gobierno General
+Personal,2025-Q4,6161695.29003853,2025,4,Gobierno General
+Bienes y servicios de consumo y producción,2017-Q1,1040781.8965159999,2017,1,Gobierno General
+Bienes y servicios de consumo y producción,2017-Q2,1191578.205748,2017,2,Gobierno General
+Bienes y servicios de consumo y producción,2017-Q3,1276042.929019,2017,3,Gobierno General
+Bienes y servicios de consumo y producción,2017-Q4,1692618.447774,2017,4,Gobierno General
+Bienes y servicios de consumo y producción,2018-Q1,1100006.187313,2018,1,Gobierno General
+Bienes y servicios de consumo y producción,2018-Q2,1324070.939344,2018,2,Gobierno General
+Bienes y servicios de consumo y producción,2018-Q3,1327032.200842,2018,3,Gobierno General
+Bienes y servicios de consumo y producción,2018-Q4,1781826.895985,2018,4,Gobierno General
+Bienes y servicios de consumo y producción,2019-Q1,1189242.324867,2019,1,Gobierno General
+Bienes y servicios de consumo y producción,2019-Q2,1380126.3033849997,2019,2,Gobierno General
+Bienes y servicios de consumo y producción,2019-Q3,1400308.797404,2019,3,Gobierno General
+Bienes y servicios de consumo y producción,2019-Q4,1846064.402359,2019,4,Gobierno General
+Bienes y servicios de consumo y producción,2020-Q1,1266611.702372,2020,1,Gobierno General
+Bienes y servicios de consumo y producción,2020-Q2,1413034.808909,2020,2,Gobierno General
+Bienes y servicios de consumo y producción,2020-Q3,1458087.6574360002,2020,3,Gobierno General
+Bienes y servicios de consumo y producción,2020-Q4,2040725.3703799997,2020,4,Gobierno General
+Bienes y servicios de consumo y producción,2021-Q1,1371208.1323409998,2021,1,Gobierno General
+Bienes y servicios de consumo y producción,2021-Q2,1595588.8753739996,2021,2,Gobierno General
+Bienes y servicios de consumo y producción,2021-Q3,1588738.6392769997,2021,3,Gobierno General
+Bienes y servicios de consumo y producción,2021-Q4,2180603.0756179346,2021,4,Gobierno General
+Bienes y servicios de consumo y producción,2022-Q1,1509058.0823479998,2022,1,Gobierno General
+Bienes y servicios de consumo y producción,2022-Q2,1674498.7350790002,2022,2,Gobierno General
+Bienes y servicios de consumo y producción,2022-Q3,1949124.5563779995,2022,3,Gobierno General
+Bienes y servicios de consumo y producción,2022-Q4,2389021.498546,2022,4,Gobierno General
+Bienes y servicios de consumo y producción,2023-Q1,1777671.6694440003,2023,1,Gobierno General
+Bienes y servicios de consumo y producción,2023-Q2,1975316.7821580004,2023,2,Gobierno General
+Bienes y servicios de consumo y producción,2023-Q3,2024227.7202441923,2023,3,Gobierno General
+Bienes y servicios de consumo y producción,2023-Q4,2450434.757989827,2023,4,Gobierno General
+Bienes y servicios de consumo y producción,2024-Q1,2146249.12558,2024,1,Gobierno General
+Bienes y servicios de consumo y producción,2024-Q2,2257085.318222,2024,2,Gobierno General
+Bienes y servicios de consumo y producción,2024-Q3,2250757.8698579995,2024,3,Gobierno General
+Bienes y servicios de consumo y producción,2024-Q4,2497927.2555469996,2024,4,Gobierno General
+Bienes y servicios de consumo y producción,2025-Q1,2572649.4465909996,2025,1,Gobierno General
+Bienes y servicios de consumo y producción,2025-Q2,2428548.8333839998,2025,2,Gobierno General
+Bienes y servicios de consumo y producción,2025-Q3,2439556.2430839995,2025,3,Gobierno General
+Bienes y servicios de consumo y producción,2025-Q4,2656561.290510369,2025,4,Gobierno General
+Intereses,2017-Q1,636126.843878,2017,1,Gobierno General
+Intereses,2017-Q2,89684.551525,2017,2,Gobierno General
+Intereses,2017-Q3,661838.585234,2017,3,Gobierno General
+Intereses,2017-Q4,72368.29339499999,2017,4,Gobierno General
+Intereses,2018-Q1,715939.8037009999,2018,1,Gobierno General
+Intereses,2018-Q2,89897.952756,2018,2,Gobierno General
+Intereses,2018-Q3,724614.6766680001,2018,3,Gobierno General
+Intereses,2018-Q4,84186.54803700002,2018,4,Gobierno General
+Intereses,2019-Q1,808146.404425,2019,1,Gobierno General
+Intereses,2019-Q2,93616.79454400002,2019,2,Gobierno General
+Intereses,2019-Q3,827782.164149,2019,3,Gobierno General
+Intereses,2019-Q4,82490.213522,2019,4,Gobierno General
+Intereses,2020-Q1,905805.5744200001,2020,1,Gobierno General
+Intereses,2020-Q2,104816.60842799999,2020,2,Gobierno General
+Intereses,2020-Q3,876827.7460599999,2020,3,Gobierno General
+Intereses,2020-Q4,51071.207547000005,2020,4,Gobierno General
+Intereses,2021-Q1,916149.5009819998,2021,1,Gobierno General
+Intereses,2021-Q2,94186.957595,2021,2,Gobierno General
+Intereses,2021-Q3,882154.2894179999,2021,3,Gobierno General
+Intereses,2021-Q4,166705.517157,2021,4,Gobierno General
+Intereses,2022-Q1,1022742.9225989999,2022,1,Gobierno General
+Intereses,2022-Q2,228694.32535700002,2022,2,Gobierno General
+Intereses,2022-Q3,1127217.349471,2022,3,Gobierno General
+Intereses,2022-Q4,262264.535068,2022,4,Gobierno General
+Intereses,2023-Q1,1170288.984736,2023,1,Gobierno General
+Intereses,2023-Q2,299548.9611869999,2023,2,Gobierno General
+Intereses,2023-Q3,1087019.3856070002,2023,3,Gobierno General
+Intereses,2023-Q4,417044.98615300003,2023,4,Gobierno General
+Intereses,2024-Q1,1299762.4429019995,2024,1,Gobierno General
+Intereses,2024-Q2,555297.4778750001,2024,2,Gobierno General
+Intereses,2024-Q3,1259274.4053999998,2024,3,Gobierno General
+Intereses,2024-Q4,656766.21691,2024,4,Gobierno General
+Intereses,2025-Q1,1313971.390109,2025,1,Gobierno General
+Intereses,2025-Q2,739913.026637,2025,2,Gobierno General
+Intereses,2025-Q3,1374546.3142950004,2025,3,Gobierno General
+Intereses,2025-Q4,779336.1020489717,2025,4,Gobierno General
+Subsidios y donaciones,2017-Q1,2520149.0601700004,2017,1,Gobierno General
+Subsidios y donaciones,2017-Q2,3140822.660201,2017,2,Gobierno General
+Subsidios y donaciones,2017-Q3,3170307.48864,2017,3,Gobierno General
+Subsidios y donaciones,2017-Q4,3593719.666661,2017,4,Gobierno General
+Subsidios y donaciones,2018-Q1,2803887.9227810004,2018,1,Gobierno General
+Subsidios y donaciones,2018-Q2,3347102.024313,2018,2,Gobierno General
+Subsidios y donaciones,2018-Q3,2962658.8108249996,2018,3,Gobierno General
+Subsidios y donaciones,2018-Q4,4025613.7700300007,2018,4,Gobierno General
+Subsidios y donaciones,2019-Q1,2968916.2075580005,2019,1,Gobierno General
+Subsidios y donaciones,2019-Q2,3554688.574347002,2019,2,Gobierno General
+Subsidios y donaciones,2019-Q3,3391287.0319649996,2019,3,Gobierno General
+Subsidios y donaciones,2019-Q4,4393144.460074998,2019,4,Gobierno General
+Subsidios y donaciones,2020-Q1,3216841.8801959995,2020,1,Gobierno General
+Subsidios y donaciones,2020-Q2,4118351.155605999,2020,2,Gobierno General
+Subsidios y donaciones,2020-Q3,6819373.499674001,2020,3,Gobierno General
+Subsidios y donaciones,2020-Q4,5096917.022417,2020,4,Gobierno General
+Subsidios y donaciones,2021-Q1,4544472.41398,2021,1,Gobierno General
+Subsidios y donaciones,2021-Q2,8901686.451708,2021,2,Gobierno General
+Subsidios y donaciones,2021-Q3,12532211.757453004,2021,3,Gobierno General
+Subsidios y donaciones,2021-Q4,11407638.495682886,2021,4,Gobierno General
+Subsidios y donaciones,2022-Q1,4281137.545699,2022,1,Gobierno General
+Subsidios y donaciones,2022-Q2,5172091.348157998,2022,2,Gobierno General
+Subsidios y donaciones,2022-Q3,6550325.128938,2022,3,Gobierno General
+Subsidios y donaciones,2022-Q4,5272312.999144001,2022,4,Gobierno General
+Subsidios y donaciones,2023-Q1,4692545.845768,2023,1,Gobierno General
+Subsidios y donaciones,2023-Q2,5591149.878709001,2023,2,Gobierno General
+Subsidios y donaciones,2023-Q3,5181748.232714893,2023,3,Gobierno General
+Subsidios y donaciones,2023-Q4,5803107.242250126,2023,4,Gobierno General
+Subsidios y donaciones,2024-Q1,5042596.271553999,2024,1,Gobierno General
+Subsidios y donaciones,2024-Q2,5543271.083000999,2024,2,Gobierno General
+Subsidios y donaciones,2024-Q3,5349440.598646,2024,3,Gobierno General
+Subsidios y donaciones,2024-Q4,6113658.176860999,2024,4,Gobierno General
+Subsidios y donaciones,2025-Q1,4871153.789502999,2025,1,Gobierno General
+Subsidios y donaciones,2025-Q2,5803821.043447999,2025,2,Gobierno General
+Subsidios y donaciones,2025-Q3,5610942.123925,2025,3,Gobierno General
+Subsidios y donaciones,2025-Q4,6173363.256820821,2025,4,Gobierno General
+Prestaciones previsionales,2017-Q1,1846720.545214,2017,1,Gobierno General
+Prestaciones previsionales,2017-Q2,1782789.8387870004,2017,2,Gobierno General
+Prestaciones previsionales,2017-Q3,1807686.3419969997,2017,3,Gobierno General
+Prestaciones previsionales,2017-Q4,1817443.4600489999,2017,4,Gobierno General
+Prestaciones previsionales,2018-Q1,1933407.634073,2018,1,Gobierno General
+Prestaciones previsionales,2018-Q2,1897833.6497809996,2018,2,Gobierno General
+Prestaciones previsionales,2018-Q3,1877295.445766,2018,3,Gobierno General
+Prestaciones previsionales,2018-Q4,1902793.16513,2018,4,Gobierno General
+Prestaciones previsionales,2019-Q1,2016522.899154,2019,1,Gobierno General
+Prestaciones previsionales,2019-Q2,1911410.932592,2019,2,Gobierno General
+Prestaciones previsionales,2019-Q3,1965030.7008570002,2019,3,Gobierno General
+Prestaciones previsionales,2019-Q4,2000398.9445910002,2019,4,Gobierno General
+Prestaciones previsionales,2020-Q1,2333315.750968,2020,1,Gobierno General
+Prestaciones previsionales,2020-Q2,2083681.9512519995,2020,2,Gobierno General
+Prestaciones previsionales,2020-Q3,2149856.5548320003,2020,3,Gobierno General
+Prestaciones previsionales,2020-Q4,2333835.121999,2020,4,Gobierno General
+Prestaciones previsionales,2021-Q1,2249296.329927,2021,1,Gobierno General
+Prestaciones previsionales,2021-Q2,2283518.4196889997,2021,2,Gobierno General
+Prestaciones previsionales,2021-Q3,2175050.4976549996,2021,3,Gobierno General
+Prestaciones previsionales,2021-Q4,2695964.632616862,2021,4,Gobierno General
+Prestaciones previsionales,2022-Q1,2500772.982561,2022,1,Gobierno General
+Prestaciones previsionales,2022-Q2,2629731.661539,2022,2,Gobierno General
+Prestaciones previsionales,2022-Q3,3056525.3642619997,2022,3,Gobierno General
+Prestaciones previsionales,2022-Q4,3288103.2675860003,2022,4,Gobierno General
+Prestaciones previsionales,2023-Q1,3612083.857061,2023,1,Gobierno General
+Prestaciones previsionales,2023-Q2,3606335.978485999,2023,2,Gobierno General
+Prestaciones previsionales,2023-Q3,3482350.72717,2023,3,Gobierno General
+Prestaciones previsionales,2023-Q4,3600866.6659379997,2023,4,Gobierno General
+Prestaciones previsionales,2024-Q1,3800189.9082090002,2024,1,Gobierno General
+Prestaciones previsionales,2024-Q2,3805345.482353,2024,2,Gobierno General
+Prestaciones previsionales,2024-Q3,3736300.2883790005,2024,3,Gobierno General
+Prestaciones previsionales,2024-Q4,3801776.758365999,2024,4,Gobierno General
+Prestaciones previsionales,2025-Q1,4176872.8136709994,2025,1,Gobierno General
+Prestaciones previsionales,2025-Q2,4093042.8687620005,2025,2,Gobierno General
+Prestaciones previsionales,2025-Q3,4054211.7336459993,2025,3,Gobierno General
+Prestaciones previsionales,2025-Q4,4144786.5629215525,2025,4,Gobierno General
+Otros,2017-Q1,29200.814150000002,2017,1,Gobierno General
+Otros,2017-Q2,37670.036569,2017,2,Gobierno General
+Otros,2017-Q3,29468.695322,2017,3,Gobierno General
+Otros,2017-Q4,35414.776879,2017,4,Gobierno General
+Otros,2018-Q1,30415.021188000002,2018,1,Gobierno General
+Otros,2018-Q2,45833.52777,2018,2,Gobierno General
+Otros,2018-Q3,40720.392837,2018,3,Gobierno General
+Otros,2018-Q4,58447.964098,2018,4,Gobierno General
+Otros,2019-Q1,38124.64595,2019,1,Gobierno General
+Otros,2019-Q2,33658.073698,2019,2,Gobierno General
+Otros,2019-Q3,34879.607661,2019,3,Gobierno General
+Otros,2019-Q4,63934.41860999999,2019,4,Gobierno General
+Otros,2020-Q1,41800.407152,2020,1,Gobierno General
+Otros,2020-Q2,33440.473779,2020,2,Gobierno General
+Otros,2020-Q3,38702.573886,2020,3,Gobierno General
+Otros,2020-Q4,57195.20853,2020,4,Gobierno General
+Otros,2021-Q1,42945.105604,2021,1,Gobierno General
+Otros,2021-Q2,48474.919261999996,2021,2,Gobierno General
+Otros,2021-Q3,58372.602738,2021,3,Gobierno General
+Otros,2021-Q4,76039.00826400623,2021,4,Gobierno General
+Otros,2022-Q1,72344.806755,2022,1,Gobierno General
+Otros,2022-Q2,49420.769866999995,2022,2,Gobierno General
+Otros,2022-Q3,65841.729223,2022,3,Gobierno General
+Otros,2022-Q4,184227.17426499998,2022,4,Gobierno General
+Otros,2023-Q1,92696.435207,2023,1,Gobierno General
+Otros,2023-Q2,61552.347574,2023,2,Gobierno General
+Otros,2023-Q3,69586.99169378531,2023,3,Gobierno General
+Otros,2023-Q4,110632.8805740235,2023,4,Gobierno General
+Otros,2024-Q1,108808.400265,2024,1,Gobierno General
+Otros,2024-Q2,77237.165736,2024,2,Gobierno General
+Otros,2024-Q3,144743.422256,2024,3,Gobierno General
+Otros,2024-Q4,124429.713905,2024,4,Gobierno General
+Otros,2025-Q1,101161.695255,2025,1,Gobierno General
+Otros,2025-Q2,101662.41263399998,2025,2,Gobierno General
+Otros,2025-Q3,99238.00546,2025,3,Gobierno General
+Otros,2025-Q4,169548.34171784145,2025,4,Gobierno General
