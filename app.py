@@ -15,11 +15,11 @@ st.set_page_config(
 aplicar_estilos()
 
 st.title("🇨🇱 Finanzas Públicas de Chile")
-st.subheader("2017 – 2025 · Datos del Ministerio de Hacienda")
+st.subheader("2017 – 2026 · Datos del Ministerio de Hacienda")
 
 st.markdown("""
 Este dashboard muestra cómo el Estado de Chile recauda y gasta sus recursos,
-trimestre a trimestre, entre 2017 y 2025.
+trimestre a trimestre. Incluye datos históricos desde 2017 a 2025 y datos en tiempo real hasta el 2026.
 
 Los datos provienen del **Estado de Operaciones** publicado por el
 Ministerio de Hacienda, e incluyen tanto el **Gobierno Central** como el
@@ -32,6 +32,7 @@ Ministerio de Hacienda, e incluyen tanto el **Gobierno Central** como el
 | Página | Contenido |
 |---|---|
 | 📊 **Resumen** | Ingresos vs gastos del período, superávit o déficit |
+| 🕒 **Datos en tiempo real** | Información actualizada sobre la situación financiera |
 | 📈 **Ingresos y Gastos** | Evolución histórica, valores nominales y reales |
 | 🧩 **Composición** | En qué se gasta y de dónde vienen los ingresos |
 | 🏦 **Deuda** | Endeudamiento neto y financiamiento |
